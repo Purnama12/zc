@@ -1,0 +1,422 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgshare.io/images/2020/04/24/20200425_051241.jpg" group-title="TV Lokal",purnama channel
+https://www.dropbox.com/s/fh4o4upafg1ybdl/Tak%20berjudul%201_720p.mp4?dl=1 
+#EXTINF:-1 tvg-logo="https://imgshare.io/images/2020/04/24/20200425_051241.jpg" group-title="USEETV Daerah",purnama channel
+https://www.dropbox.com/s/fh4o4upafg1ybdl/Tak%20berjudul%201_720p.mp4?dl=1 
+#EXTINF:-1 tvg-logo="https://imgshare.io/images/2020/04/24/20200425_051241.jpg" group-title="USEETV Lokal",purnama channel
+https://www.dropbox.com/s/fh4o4upafg1ybdl/Tak%20berjudul%201_720p.mp4?dl=1 
+#EXTINF:-1 tvg-logo="https://imgshare.io/images/2020/04/24/20200425_051241.jpg" group-title="Khusus Indihome",purnama channel
+https://www.dropbox.com/s/fh4o4upafg1ybdl/Tak%20berjudul%201_720p.mp4?dl=1 
+#EXTINF:-1 tvg-logo="https://imgshare.io/images/2020/04/24/20200425_051241.jpg" group-title="TV Lokal Premium",purnama channel
+https://www.dropbox.com/s/fh4o4upafg1ybdl/Tak%20berjudul%201_720p.mp4?dl=1 
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nettv.png" group-title="TV Lokal",NET TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/net.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/kompastv.png" group-title="TV Lokal",Kompas TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/kompas.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rtv.png" group-title="TV Lokal",RTV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/rtv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/beritasatutv.png" group-title="TV Lokal",Berita Satu
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/beritasatu.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvri.png" group-title="TV Lokal",TVRI
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/tvri.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/transtv.png" group-title="TV Lokal",TRANS TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/transtv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/trans7.png" group-title="TV Lokal",TRANS 7
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/trans7.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/gtv.png" group-title="TV Lokal",GTV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/gtv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rcti.png" group-title="TV Lokal",RCTI
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/rcti.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/sctv.png" group-title="TV Lokal",SCTV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/sctv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/indosiar.png" group-title="TV Lokal",Indosiar
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/indosiar.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/metrotv.png" group-title="TV Lokal",Metro TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/metrotv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mnctv.png" group-title="TV Lokal",MNC TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/mnc.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/ochannel.png" group-title="TV Lokal",O Channel
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/ochannel.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/inewstv.png" group-title="TV Lokal",INEWS
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/inews.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/jaktv.png" group-title="TV Lokal",JAK TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/jaktv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/oshop.jpg" group-title="TV Lokal",O Shop
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/oshop.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mytv.png" group-title="TV Lokal",MYTV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/mytv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/alquran.png" group-title="TV Lokal",Al Quran Al Kareem TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/alquran.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/reformed21.png" group-title="TV Lokal",Reformed 21
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/reformed.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/uchannel.png" group-title="TV Lokal",U Channel
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/uchannel.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/daaitv.png" group-title="TV Lokal",DAAI TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/daiitv.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/aljazeera.png" group-title="TV Lokal Premium",Aljazeera
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/aljazeera.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/arirang.png" group-title="TV Lokal Premium",Arirang
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/arirang.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/champions1.png" group-title="TV Lokal Premium",Champion TV1
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/championtv1.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/champions2.png" group-title="TV Lokal Premium",Champion TV2
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/championtv2.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/champions3.png" group-title="TV Lokal Premium",Champion TV3
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/championtv3.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/citrabioskop.png" group-title="TV Lokal Premium",Citra Bioskop
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/citrabioskop.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/citradangdut.png" group-title="TV Lokal Premium",Citra Dangdut
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/citradangdut.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/citradrama.png" group-title="TV Lokal Premium",Citra Drama
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/citradrama.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/citraentertain.png" group-title="TV Lokal Premium",Citra Entertainment
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/citraentertainment.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/citramuslim.png" group-title="TV Lokal Premium",Citra Muslim
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/citramuslim.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cna.png" group-title="TV Lokal Premium",Channel News Asia
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/cna.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/davinci.png" group-title="TV Lokal Premium",Da Vinci
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/davinci.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/euronews.png" group-title="TV Lokal Premium",Euro News
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/euronews.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/horee.png" group-title="TV Lokal Premium",Horee
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/horee.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/lovenature.png" group-title="TV Lokal Premium",Love Nature
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/lovenature.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/molatv.png" group-title="TV Lokal Premium",Mola Sports
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/molasport.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/smithsonian.png" group-title="TV Lokal Premium",Smithsonian
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/smithsonian.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvn.png" group-title="TV Lokal Premium",TVN
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/tvn.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zeebioskop.png" group-title="TV Lokal Premium",Zee Bioskop
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/zeebioskop.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zing.png" group-title="TV Lokal Premium",Zing
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/zing.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zoomoo.png" group-title="TV Lokal Premium",ZooMoo
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/vidio/premier/zoomoo.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/animalpl.png" group-title="Khusus Indihome",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=FE754EEE11C474F6C90452CF989C02463F35BF77&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/afn.png" group-title="Khusus Indihome",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=55F1D428F8430B8043855EE1A817CAD070D7E395&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/axn.png" group-title="Khusus Indihome",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=32C1B76647871825FB1E27479155A683F3B33666&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bbcworld.png" group-title="Khusus Indihome",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bloomberg.png" group-title="Khusus Indihome",Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246AEB35D9D916F70E2FE63&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/extreme.png" group-title="Khusus Indihome",Blue Ant Extreme
+#http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cartoonnet.png" group-title="Khusus Indihome",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cinemax.png" group-title="Khusus Indihome",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=471460A2F9702845F696A07FE208D021208CAE47&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cnbc.png" group-title="Khusus Indihome",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=356480E525DC0ADEA2A40DFD43C0F52D66394C2D&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cnninter.png" group-title="Khusus Indihome",CNN International
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=873D54D5C7D80531C55C5957338BB36842E10E95&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/discch.png" group-title="Khusus Indihome",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=B0CF8905071E52CFEBDBE257DFA27B39601F2A6F&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/disneych.png" group-title="Khusus Indihome",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=7067922419741D51CC687FB596AF9C5D3C913703&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fox.png" group-title="Khusus Indihome",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9C78CF34633A925063D333AA62610E58DE4743F7&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fofamo.png" group-title="Khusus Indihome",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=FAA59AF9056556AD852BA91B14A11BC36F88FB30&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/foxmo.png" group-title="Khusus Indihome",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=1A08169169B8C3E2D95B82886B55BBBD5E6674B7&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbofamily.png" group-title="Khusus Indihome",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:5hbo.png" group-title="Khusus Indihome",HBO HD
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbohits.png" group-title="Khusus Indihome",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2FEE87F52D657E1492AC735&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbosign.png" group-title="Khusus Indihome",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=AF12881090B35A16481BAF385A7CAEA4E595BC98&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/h1.png" group-title="Khusus Indihome",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=75DAA0C535858DB22080C1C86709CEF357176ED2&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/indosiar.png" group-title="Khusus Indihome",Indosiar
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=42F5FD5FFD34C9B66FAFDC40D510F30E6C1A0A4A&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeopeople.png" group-title="Khusus Indihome",NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeowild.png" group-title="Khusus Indihome
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=93D769EAB3B1D37C526EF293E7247EAA368042FC&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeo.png" group-title="Khusus Indihome",National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=0A08D4501E9D82D61E86B64CD87FE14B0C0915C9&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nick.png" group-title="Khusus Indihome",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=6A027DC9DC67017F3BCDB2A786463E3D189D9713&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/setantahd.png" group-title="Khusus Indihome",Setanta Sports
+http://203.153.218.28:9981/stream/channelid/981299476?ticket=12C9097A699FE253487F44D457A003F3B89E5C36&profile=pass
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tctkids.png" group-title="Khusus Indihome",TLC
+http://203.153.218.28:9981/stream/channelid/391618553?ticket=EF9620DAF73176947D92EA2BD20C3AF456F02309&profile=pass
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/ruangtrampil.jpg" group-title="USEETV Lokal",Ruang Terampil
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/ruangterampil.m3u8
+EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/useephoto.jpg" group-title="USEETV Lokal",Usee Photo
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/useephoto.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/useeprime.png" group-title="USEETV Lokal",Usee Prime
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/useeprime.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/idku.png" group-title="USEETV Lokal",ID KU
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/idku.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvri.png" group-title="USEETV Lokal",TVRI
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/tvri.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/antv.png" group-title="USEETV Lokal",ANTV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/antv.m3u8
+#http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/mivo/antv.m3u8
+#http://52.186.120.204:19410/live/lokal/dakocan/12.ts
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/jitv.png" group-title="USEETV Daerah",Ji TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/jitv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/kompastv.png" group-title="USEETV Lokal",Kompas
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/kompas.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nettv.png" group-title="USEETV Lokal",NET
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/net.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/metrotv.png" group-title="USEETV News",MetroTV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/metrotv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rtv.png" group-title="USEETV Lokal",RTV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/rtv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rri.png" group-title="USEETV Daerah",RRI NET
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/rrinet.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/trans7.png" group-title="USEETV Lokal",Trans 7
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/trans7.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/transtv.png" group-title="USEETV Lokal",Trans TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/transtv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mncshop.png" group-title="USEETV Daerah",M Shop
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/mshop.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvone.png" group-title="USEETV Lokal",TV One
+#http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/mivo/tvone.m3u8
+http://vpsus.iptv.my.id:19410/live/Lokal/dakocaniptv/12.ts
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/antaratv.png" group-title="USEETV News",Antara News
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/antaranews.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/idx.png" group-title="USEETV News",IDX
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/idx.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/balitv.png" group-title="USEETV Daerah",Bali TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/balitv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/beritasatutv.png" group-title="USEETV News",Berita Satu
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/beritasatu.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/dwtv.png" group-title="USEETV News",DW English
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/dwenglish.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/france24.png" group-title="USEETV News",France 24
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/france24.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/jaktv.png" group-title="USEETV Daerah",Jak TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/jaktv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/jtv.png" group-title="USEETV Daerah",JTV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/jtv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/muitv.png" group-title="USEETV Religi",MUI TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/muitv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mytv.png" group-title="USEETV Lokal",My TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/mytv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cna.png" group-title="USEETV News",CNA
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/cna.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvedukasi.png" group-title="USEETV Lokal",TV Edukasi
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/tvedukasi.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tv9.png" group-title="USEETV News",TV 9
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/tv9.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/uchannel.png" group-title="USEETV News",U Channel
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/uchannel.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/aljazeera.png" group-title="USEETV News",Al Jazeera
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/aljazeera.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/alquran.png" group-title="USEETV Religi",Al Quran Al Kareem
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/alquran.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/arirang.png" group-title="USEETV Asia",Arirang
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/arirang.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tawaftv.png" group-title="USEETV Religi",Tawaf TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/tawaftv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mqtv.png" group-title="USEETV Religi",MQ TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/mqtv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mtatv.png" group-title="USEETV Religi",MTA TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/mtatv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvmu.png" group-title="USEETV Religi",TV Muhammadiyah
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/tvmuhamadiyah.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rodjatv.png" group-title="USEETV Religi",Rodja TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/rodjatv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/abc.png" group-title="USEETV News",ABC Australia
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/abcaustralia.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/chinesedrama.png" group-title="USEETV Movie",Chinese Drama
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/chinesedrama.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/daaitv.png" group-title="USEETV Religi",DAAI TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/daai.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/prambors.png" group-title="USEETV Music",Prambors
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prambors.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cctv4.png" group-title="USEETV News",CCTV 4
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/cctv4.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/euronews.png" group-title="USEETV News",Euro News
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/euronews.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/eljohn.png" group-title="USEETV Lokal",Eljohn TV
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/eljohn.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/useesports.png" group-title="USEETV Sports",UseeSport 1  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/useesport1.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/useesports2.png" group-title="USEETV Sports",UseeSport 2  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/useesport2.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bein1.png" group-title="USEETV Sports",Bein Sport 1  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/beinsport1.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bein2.png" group-title="USEETV Sports",Bein Sport 2  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/beinsport2.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/champions1.png" group-title="USEETV Sports",Champions 1  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/champions1.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/champions2.png" group-title="USEETV Sports",Champions 2  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/champions2.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/foxsport.png" group-title="USEETV Sports",Fox Sports 1  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/foxsport1.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/foxsport2.png" group-title="USEETV Sports",Fox Sports 2  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/foxsport2.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/foxsport3.png" group-title="USEETV Sports",Fox Sports 3  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/foxsport3.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeo.png" group-title="USEETV Knowladge",NatGeo Channel  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/natgeoch.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeopeople.png" group-title="USEETV Knowladge",NatGeo People  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/natgeopeople.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeowild.png" group-title="USEETV Knowladge",NatGeo Wild  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/natgeowild.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/discch.png" group-title="USEETV Knowladge",Discovery Channel  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/discoverych.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nba.png" group-title="USEETV Sports",NBA  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/nba.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/indosiar.png" group-title="USEETV Lokal",Indosiar  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/indosiar.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/sctv.png" group-title="USEETV Lokal",SCTV  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/sctv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/crime.png" group-title="USEETV Entertaiment",Crime Investigation  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/ci.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/babyfirst.png" group-title="USEETV Kids",Baby First  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/babyfirst.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/citradrama.png" group-title="USEETV Movie",Citra Drama  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/citradrama.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/ducktv.png" group-title="USEETV Kids",Duck TV  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/ducktv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/dunialain.png" group-title="USEETV Entertaiment",Dunia Lain  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/dunialain.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/horee.png" group-title="USEETV Kids",Horee  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/horee.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/imc.png" group-title="USEETV Entertaiment",IMC  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/imc.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tmusik.png" group-title="USEETV Music",T Music  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/tmusic.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mtv.png" group-title="USEETV Music",MTV Live  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/mtvlive.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/citradangdut.png" group-title="USEETV Music",Citra Dangdut  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/citradangdut.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/khazanah.png" group-title="USEETV Religi",Khazanah  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/khazanah.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/boomerang.png" group-title="USEETV Kids",Boomerang  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/boomerang.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/celestial.png" group-title="USEETV Movie",Celestial Movies  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/celestialmovies.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/animax.png" group-title="USEETV Kids",Animax  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/animax.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cinemaworld.png" group-title="USEETV Movie",Cinema World  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/cinemaworld.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/axn.png" group-title="USEETV Entertaiment",AXN  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/axn.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvn.png" group-title="USEETV Entertaiment",TvN  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/tvn.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/kbsworld.png" group-title="USEETV Asia",KBS World  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/kbsworld.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/entertainment.png" group-title="USEETV Entertaiment",BlueAnt Entertaiment  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/blueantent.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/extreme.png" group-title="USEETV Entertaiment",BlueAnt Extream  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/blueantext.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bioskopindo.png" group-title="USEETV Movie",Bioskop Indonesia  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/bioskopindonesia.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cartoonnet.png" group-title="USEETV Kids",Cartoon Network  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/cn.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cnnin.png" group-title="USEETV News",CNN Indonesia  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/cnnindonesia.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cnninter.png" group-title="USEETV News",CNN Internasional  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/cnninter.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/lifetime.png" group-title="USEETV Entertaiment",Lifetime  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/lifetime.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/duniaanak.png" group-title="USEETV Kids",Dunia Anak  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/dunianak.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/eatandgo.png" group-title="USEETV Entertaiment",Eat And Go  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/eatandgo.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/flik.png" group-title="USEETV Movie",Flik  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/flik.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/axn.png" group-title="USEETV Movie",AXN
+http://vpsus.iptv.my.id:19410/live/dakocan/punyadakocaniptvhati2bokep/7.ts
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fox.png" group-title="USEETV Movie",Fox
+http://vpsus.iptv.my.id:19410/live/dakocan/punyadakocaniptvhati2bokep/9.ts
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/foxcrime.png" group-title="USEETV Movie",Fox Crime
+http://vpsus.iptv.my.id:19410/live/dakocan/punyadakocaniptvhati2bokep/10.ts
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/foxlife.png" group-title="USEETV Movie",Fox Life
+http://vpsus.iptv.my.id:19410/live/dakocan/punyadakocaniptvhati2bokep/11.ts
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fx.png" group-title="USEETV Movie",FX
+http://vpsus.iptv.my.id:19410/live/dakocan/punyadakocaniptvhati2bokep/8.ts
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/foxmo.png" group-title="USEETV Movie",Fox Movies
+http://vpsus.iptv.my.id:19410/live/dakocan/punyadakocaniptvhati2bokep/1.ts
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fofamo.png" group-title="USEETV Movie",Fox Family
+http://vpsus.iptv.my.id:19410/live/dakocan/punyadakocaniptvhati2bokep/2.ts
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fam.png" group-title="USEETV Movie",Fox Action Movies
+http://vpsus.iptv.my.id:19410/live/dakocan/punyadakocaniptvhati2bokep/3.ts
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/galaxy.png" group-title="USEETV Movie",Galaxy  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/galaxy.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/h1.png" group-title="USEETV Knowladge",History  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/history.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/thrill.png" group-title="USEETV Movie",Thrill  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/thrill.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/insert.png" group-title="USEETV Entertaiment",Insert  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/insert.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/kix.png" group-title="USEETV Entertaiment",KiX  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/kix.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nickjr.png" group-title="USEETV Kids",Nick JR  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/nickjr.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nick.png" group-title="USEETV Kids",Nicklodeon  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/niclkodeon.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/wakuwaku.png" group-title="USEETV Asia",Waku Waku Japan  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/wakuwaku.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/warnertv.png" group-title="USEETV Movie",Warner TV  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/warnertv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/aniplus.png" group-title="USEETV Kids",Aniplus  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/aniplus.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bloomberg.png" group-title="USEETV Kids",Bloomberg  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/bloomberg.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cgtndoc.png" group-title="USEETV Knowladge",CGTN Documentary  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/cgtn.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/davinci.png" group-title="USEETV Kids",DaVinci Learning  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/davincilearning.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/dreamworks.png" group-title="USEETV Movie",DreamWorks  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/dreamworks.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/egg.png" group-title="USEETV Entertaiment",EGG Network  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/eggnetwork.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fashiontv.png" group-title="USEETV Fashion",Fashion One  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/fashionone.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fashiontv.png" group-title="USEETV Fashion",Fashion TV  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/fashiontv.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/kplus.png" group-title="USEETV Asia",K Plus  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/kplus.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nhkworld.png" group-title="USEETV Asia",NHK World  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/nhkworld.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/sgem.png" group-title="USEETV Entertaiment",GEM  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/gem.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/sone.png" group-title="USEETV Asia",Sony One  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/sonyone.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/spacetoon.png" group-title="USEETV Kids",Space Toon  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/spacetoon.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tv5.png" group-title="USEETV News",TV5 Monde  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/tv5monde.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zbioskop.png" group-title="USEETV Movie",Zee Bioskop  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/zeebioskop.m3u8
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/afn.png" group-title="USEETV Entertaiment",Asian Food Network  
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/usee/prem/asianfoodnetwork.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbo.png" group-title="USEETV Movie",HBO ID
+https://dai3fd1oh325y.cloudfront.net/origin/live/alt/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL2FsdC9IQk8vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTU3NTIwMn19fV19&Signature=QAmI5vKSXJ3wkh~zVec3jcF9WwwdMeLsPYi5siU8LBZmudbrC7nWzPlZAevrgjcj464CMKfZL07loouYlkQmKEcaYF5IPttVFxtOTkKz8u7B3cdpt1Ch2f1qWttb~H2Q-Sh3PlS6i-9kN9cPz2LIU05tiBdLODGKCReFfbSopOxua90fp3szHw~62BjbKf33VxhfRNOuIc57b-O7NR3HMpn7yEFff2vWMednGBHRJZN1Be7dQ2Ow6gWv4bJbODcUr40l4-cpAL-t7Vtphos5PTwYgvrd742fxBXVB4YwcW2QpAWZJtJTYgmtR-2KHA7lzsRCeNI18FZhQ2riDNMqSg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbosign.png" group-title="USEETV Movie",HBO Signature
+https://dai3fd1oh325y.cloudfront.net/origin/live/alt/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL2FsdC9TSUcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTU3NTIwMn19fV19&Signature=AelwT3BiY~y0sELAbG6puTa7FjKPIjFvt31plYBbd~6JEMRBy-0li1DY~vuyphhrZCOsE~ciSUxbmYeusKSXB6B0V5d5oPkurpOTs-rWSdNq~bjsFKRc7MeSg9q5o8txkgDoSY6W7z9vqa4Q6DkIpdFDkoiPmDR6uoMvgdsSSaegu1Epsb-7SAsBE6g4CQRxLHN7hicmSVOYoXks859sNbzfoa4IfZSmzvyUxdhVTDJG5mllpy2D1TG5PM~iLpsvm-IYvzm7VgKWuJKnT8xtkvK5Ng5BBnfxXXUFkyx8qIhi2vJoC2wWdApAzhNDzcKQ3n8O8RdEAkE9bEX9yb9kvQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbohits.png" group-title="USEETV Movie",HBO Hits
+https://dai3fd1oh325y.cloudfront.net/origin/live/alt/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL2FsdC9ISVRTLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1ODk1NzUyMDN9fX1dfQ__&Signature=kiCKUK4PN9O5YItWxKZpyI2ohk4qd5gRqfS1p7-nfrJ3iME0MfWt3~77~IT4AzOuyyHqwb1PWS3GumuBQG7~3LTPiU2CKPp3-1-oDJ~wx9NLuw8Sv6xhoyAX8eLxEg3eedt1bZ7spnBRW0GPjSitTju20H8Rpb-pDpNRPLmcMyL7WcX5lsRjA6mcobtJdQ8d3Qtciq5CUDZ3IfRWQe3HI0yBWV8-TQ~cgAq5JBZZVF8fxA1haW~3qt4o-p20LKT9Sdrf7Ke84QRgjSYZb3XByPqWT8Mn6-RF~DswxZ~aCMmYoRNIe~D9Njn9-cSaf7VaizuuO3zoqh0HVf-iYyPrDA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbofamily.png" group-title="USEETV Movie",HBO Family
+https://dai3fd1oh325y.cloudfront.net/origin/live/alt/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL2FsdC9GQU1JTFkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTU3NTIwM319fV19&Signature=r8KevDRL9V9kkJA-8Fkmd0D9MJsu1x4-vO53uMIM9yxkfWLhT1ZgG4AwCRp1U~5UTF9OfzTt3seSF-pDAaycYFLPGlR5oykA1KndTKJHahxoinR2m3QCCVbwTdgSeNCdMQCT3r3ZeO7nm7opA5SYA90gkReCXao1Yt0ydToE8gpA~AAAYKIEBscogc9gkp9s8R43CVr~Zla5960VaWzRaGSw8lNkBgU0IvvkzyCJtDuJAcrWwvEqB7WYXnzvgSypyBUMqPatr-jSiV0PS4mRBw9-rLRftnuDtmNb7YgPjiAzxsFU01E0LqCCh~-yAX0NUaxkTA9CkezvssPgQUOhuQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cinemax1.png" group-title="USEETV Movie",Cinemax
+https://dai3fd1oh325y.cloudfront.net/origin/live/alt/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL2FsdC9NQVgvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTU3NTIwM319fV19&Signature=TqXSRBJd0d-fj6F1CFXU4t9VNC1ekFi5XydSEEntW7Tcf0fSdA~mUWhZV7UzlCGo3tXKnaho82d2JbHZWgvrw2NJz5c328KKSboiQPky-TBtEVj4ti6NGqjclLs1aeCjFBCLaPXHLzRpnBe5~gt70zQEhir1mJtR8dy6RRgHRmci83ox2P08lPXsjtLEVau3cZcGSemKMzCXEmVmgLzqndxPUhBDVJcSZvlsJsoyPHlkN91ba98yLgkoS0UUY7Hp1qoVuYAYfubmKpT0dsw2FWMwgGdcIgclcl6Lb3cRRaVR7WhvWveNB9V7BaW6~wkgl4rgZ1AFdK09J1QHFA8xLQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/red.png" group-title="USEETV Movie",Red By HBO
+https://dai3fd1oh325y.cloudfront.net/origin/live/alt/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL2FsdC9SRUQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTU3NTIwM319fV19&Signature=MtdhmDZPg-mKWosBNR4PXII3ZcelatNBsr6c~Lx9iEh5uydMC8KWP~dYSvRV7PTbWNDbkJGwX2J-9v8UsIU03lC3OpkRBPacLn0qsrjyRLWzQqCzFzckP65sox66n7orEcpTPniBysSKbAMw9NnXK41ck9T8hohOnywW~n7oBO~gX9PY5S4fUvEzElC5TwREBUWEUcr9Uj8QFaxif--fD81v6Gn-tsmQxbSjROMETPBazinTLtp9v2ssvu0DWhpWpLPe8OksDXfBeNky6XAKwR9KyQ00bHvPNkgpNJ-xmY~9AJ8ePBF2Lp1oIl9xvZSQ9Bl7T9beQ8Ws7HzjIaCEig__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
