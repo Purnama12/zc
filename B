@@ -372,17 +372,27 @@ https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",HBO
-https://vpsus.iptv.my.id/session/dear/hbo/admin/please/fix/your/json/the/link/can/be/accessed/without/prorper/credential/hbo.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",Cinemax
-https://vpsus.iptv.my.id/session/dear/hbo/admin/please/fix/your/json/the/link/can/be/accessed/without/prorper/credential/cinemax.m3u8
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/Hbo.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",HBO ID
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/idHbo.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",HBO Family
-https://vpsus.iptv.my.id/session/dear/hbo/admin/please/fix/your/json/the/link/can/be/accessed/without/prorper/credential/hbo-fam.m3u8
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/Fam.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",HBO Family ID
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/idFam.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",HBO Hits
-https://vpsus.iptv.my.id/session/dear/hbo/admin/please/fix/your/json/the/link/can/be/accessed/without/prorper/credential/hbo-hits.m3u8
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/Hits.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",HBO Hits ID
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/idHits.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",HBO Signature
-https://vpsus.iptv.my.id/session/dear/hbo/admin/please/fix/your/json/the/link/can/be/accessed/without/prorper/credential/hbo-sign.m3u8
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/Sig.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",HBO Signature ID
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/idSig.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",Cinemax
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/Max.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",Cinemax ID
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/idMax.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",RED by HBO
-https://vpsus.iptv.my.id/session/dear/hbo/admin/please/fix/your/json/the/link/can/be/accessed/without/prorper/credential/redbyhbo.m3u8
+https://raw.githubusercontent.com/PurnamaTV/purnama/master/Red.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",FOX Movies
 https://livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",FOX Family Movies
