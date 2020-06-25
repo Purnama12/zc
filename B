@@ -18,7 +18,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1531512591_b384000_
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1225690211_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",GTV
-https://etslive-2-vidio-com.akamaized.net/exp=1593070775~acl=/hls-p/ingest_778_*/*~hmac=ecfe45db82927934c32ff377a86934f5345bfa1734a99e49252f4cb62c334f73/hls-p/ingest_778_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1593091632~acl=/hls-p/ingest_778_*/*~hmac=2a499db7cfe1f1c9975287f2396bdf96299843ab4eba69fda610067b2a4e03ed/hls-p/ingest_778_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",RCTI
 https://dl.dropbox.com/s/yqpukzie6nuyk8n/rcti.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",SCTV
@@ -153,55 +153,55 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Disney Channel
-https://raw.githubusercontent.com/PurnamaTV/purnama/master/Disney.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Nickelodeon
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",PBS KIS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Nickelodeon
 https://cdnmdc2.useetv.com/joss/18/nickelodeon/chunklist_w1562501762_b684100_sleng_177560.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Nick Jr
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Nick Jr
 https://cdnmdc2.useetv.com/joss/18/nickjr/chunklist_w1977672417_b684100_sleng_177560.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Aniplus
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Aniplus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Animax
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Animax
 http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Duck TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Duck TV
 https://cdnmdc2.useetv.com/joss/18/ducktv/chunklist_w1814096405_b684100_sleng_177560.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Baby First
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Baby First
 https://cdnmdc2.useetv.com/joss/18/babyfirst/chunklist_w947029927_b684100_sleng_58518.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Boomerang
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Boomerang
 https://cdnmdc2.useetv.com/joss/18/boomerang/chunklist_w184362387_b684100_sleng_177560.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Da Vinci Kids
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Da Vinci Kids
 https://cdnmdc2.useetv.com/joss/18/davinci/chunklist_w603619336_b684100_sleng_177560.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",DREAMWORKS
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",DREAMWORKS
 https://cdnmdc2.useetv.com/joss/15/dreamworks/chunklist_w200820218_b1344100_sleng_177560.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Horee
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Horee
 https://cdnbdsa1.useetv.com/joss/18/horee/chunklist_w581280968_b684100_sleng_123456.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Dunia Anak
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Dunia Anak
 https://cdnmdc2.useetv.com/joss/18/duniaanak/chunklist_w1154208140_b684100_sleng_123456.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Toonmax
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Toonmax
 http://45.126.83.51/qwr9ew/s/s50/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Larva TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Larva TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Tom Jerry
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Tom Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",3ABN Kids
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",GEM Kids
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",GEM Kids
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",GEM Junior
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",GEM Junior
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",DRAGON BALL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",DRAGON BALL
 http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Captain Stubasa TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Captain Stubasa TV
 http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",DETECTIVE CONAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",DETECTIVE CONAN
 http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",DORAEMON
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",DORAEMON
 http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",EBS Kids
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Children",Ben 10
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="KIDS",Ben 10
 http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
 
 
