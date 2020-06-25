@@ -19,6 +19,8 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1531512591_b384000_
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1225690211_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",GTV
 https://etslive-2-vidio-com.akamaized.net/exp=1593091632~acl=/hls-p/ingest_778_*/*~hmac=2a499db7cfe1f1c9975287f2396bdf96299843ab4eba69fda610067b2a4e03ed/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",GTV2
+http://iptv.burhansyam.com/global.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",RCTI
 https://dl.dropbox.com/s/yqpukzie6nuyk8n/rcti.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",SCTV
